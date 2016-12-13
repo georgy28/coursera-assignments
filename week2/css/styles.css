@@ -3,11 +3,11 @@ Georgios Papadopoulos
 
 CSS file created for week's 2 Coursera assignment
 
-I could have symplified the responsive framework since we need max 3 columns but I did not
+I could have simplified the responsive framework since we need max 3 columns but I did not
 I just added an extra case for small devices
 
 The height is fixed, so some times the text might overlap but I set the overflow value to "hidden"
-If you want to use scroll bars set it to "auto" (see line 45)
+If you want to use scroll bars set it to "auto" (see line 46)
 
 */
 
