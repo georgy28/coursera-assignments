@@ -1,0 +1,82 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #F0FFFF;
+  font-family:  Times, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#header-nav {
+    background-color: #8FBC8F;
+}
+
+.navbar-brand {
+
+    height: 72px;
+  }
+
+
+
+.navbar-brand h1 {
+  font-size: 2.4em;
+  margin: 0 auto;
+    color: #ffff00;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 2.2em;
+    color: #bc1339;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+
+section
+{
+  color: darkblue;
+  background-color: #F0E68C;
+
+}
+
+section > h3 {
+  font-size: 1.5em;
+  background-color: darkblue;
+  color: yellow;
+    text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px red;
+  padding: 10px;
+}
+
+section > p {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+hr{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p.text-right {
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+#nav-list a:hover {
+    box-shadow: 0 0 0 1px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px red;
+    background-color: darkblue;
+
+}
+
+#nav-list a {
+/*  color: #951C49;*/
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+   font-size: 1.5em;
+   vertical-align: center;
+}
+
